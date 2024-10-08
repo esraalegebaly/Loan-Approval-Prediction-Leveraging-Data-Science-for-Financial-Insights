@@ -1,0 +1,2 @@
+# Loan-Approval-Prediction-Leveraging-Data-Science-for-Financial-Insights
+This project aimed to develop a predictive model for loan approvals, utilizing various applicant features to assess the likelihood of approval. By analyzing data points such as income, credit history, loan amount, and employment status, the goal was to create a tool that assists financial institutions in making informed lending decisions.
